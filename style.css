@@ -8,7 +8,7 @@ body{
   justify-content: center;
   justify-items: center;
 }
-#warpper{
+#wrapper{
   height: 100vh;
   width: 60%;
   display: flex;
